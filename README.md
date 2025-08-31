@@ -72,7 +72,7 @@ src/
 ### Prerequisites
 
 - Node.js 16+ and npm
-- Backend API server running on `http://localhost:8081`
+- Backend API server running on `http://localhost:8082`
 
 ### Installation
 
@@ -98,7 +98,7 @@ src/
 
 The application integrates with a Java-based backend API:
 
-- **Base URL:** `http://localhost:8081/Mega_City_Cab_Service_App_war_exploded`
+- **Base URL:** `http://localhost:8082/Pahana_Edu_Billing_war_exploded/`
 - **Authentication:** Session-based with JSESSIONID cookie
 - **Data Format:** JSON
 
